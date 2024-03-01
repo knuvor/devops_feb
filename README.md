@@ -1,2 +1,2 @@
 # devops_feb
-Jomacs DevOps Engineering1
+Jomacs DevOps Engineering ( February-July)
